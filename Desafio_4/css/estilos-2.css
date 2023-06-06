@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    background-color: #fffaac;
+}
+
+.caja-titulo {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdec00;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 100px;
+}
+
+h2 {
+    
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fdec00;
+    text-align: center;
+    padding: 10px;
+   margin-left: 300px;
+   margin-right: 300px;
+    border-radius: 50px;
+}
+
+h3 {
+    letter-spacing: 0.25em;
+}
+
+
+
+.caja-main {
+    display: flex;
+    flex-direction: column;
+    
+    background-color: #faf068 ;
+    padding: 30px;
+    border-radius: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+.caja-2 {
+
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin: 30px;
+    background-color: #f56e1f;
+    border-radius: 20px;
+}
+
+
+
+
+.footer {
+    text-align: right;
+    padding: 30px;
+    background-color: ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: xx-small
+
+
+}
+
+img {
+
+    width: 450px;
+    border-radius: 20px;
+    border-color: #fd995f;
+    border-style: solid;
+    border-width: 5px;
+    margin: 10px;
+}
+
+.button {
+    background-color: #fdec00;
+    padding: 10px;
+    border-radius: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+.button:hover {
+    background-color: #3fff04;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}

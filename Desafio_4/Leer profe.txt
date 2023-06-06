@@ -1,0 +1,2 @@
+Hola profe:)
+ intente que la caja de Mario y la caja de mortal queden una al lado de la otra pero no pude ya que estan asignadas en la misma clase en el html, me quedo con la duda de si esto se puede hacer sin crear una clase nueva.. espero su respuesta :)
